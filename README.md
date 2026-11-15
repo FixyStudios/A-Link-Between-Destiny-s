@@ -1,112 +1,117 @@
 # A Link Between Destiny's
 
-> Uma fangame de aventura e exploração em 2D, inspirada em *The Legend of Zelda*, que roda direto no navegador.
+> A 2D adventure and exploration fangame, inspired by *The Legend of Zelda*, that runs directly in your browser.
 
-![Status](https://img.shields.io/badge/tipo-fangame-green)
-![Plataforma](https://img.shields.io/badge/plataforma-navegador-blue)
-![Idiomas](https://img.shields.io/badge/idiomas-PT%20%7C%20EN%20%7C%20ES%20%7C%20JA-orange)
-![Licença](https://img.shields.io/badge/uso-sem%20fins%20lucrativos-lightgrey)
-
----
-
-## ⚠️ Aviso importante
-
-**Este é um projeto de fã, feito por diversão e por amor à série.**
-
-- Não há, e nunca haverá, **qualquer expectativa de retorno financeiro**. O jogo é gratuito e não deve ser vendido.
-- **Não é um produto oficial** e não tem qualquer relação com a Nintendo.
-- *The Legend of Zelda* e todos os nomes, personagens e elementos associados são marcas e propriedade da **Nintendo**. Este projeto não pretende infringir esses direitos.
-- Se você é titular de direitos e quer que algo seja alterado ou removido, abra uma *issue* e eu resolvo.
+![Status](https://shields.io)
+![Platform](https://shields.io)
+![Languages](https://shields.io)
+![License](https://shields.io)
 
 ---
 
-## 📥 Como baixar
+## ⚠️ Important Notice
 
-O jogo é distribuído pela aba **[Releases](../../releases)** deste repositório.
+**This is a fan project, made for fun and out of love for the series.**
 
-1. Abra a página de **Releases** (na barra lateral direita do repositório).
-2. Escolha a versão mais recente.
-3. Em **Assets**, baixe o arquivo `.html` do jogo.
-4. Abra o arquivo no navegador (duplo clique) e jogue.
-
-Não é preciso instalar nada. O jogo inteiro está em um único arquivo e funciona sem internet depois de baixado.
+- There is not, and will never be, **any expectation of financial return**. The game is free and must not be sold.
+- **This is not an official product** and has no affiliation with Nintendo.
+- *The Legend of Zelda* and all associated names, characters, and elements are trademarks and property of **Nintendo**. This project does not intend to infringe upon these rights.
+- If you are a rights holder and want something changed or removed, please open an *issue* and I will take care of it.
 
 ---
 
-## 🎮 Onde jogar
+## 📥 How to Download
 
-O jogo roda em qualquer navegador moderno (Chrome, Edge, Firefox, Safari e equivalentes):
+The game is distributed through the **[Releases](../../releases)** tab of this repository.
 
-| Plataforma | Como jogar |
+1. Open the **Releases** page (on the right sidebar of the repository).
+2. Choose the latest version.
+3. Under **Assets**, download the game's `.html` file.
+4. Open the file in your browser (double-click) and play.
+
+No installation is required. The entire game is contained in a single file and works offline once downloaded.
+
+---
+
+## 🎮 Where to Play
+
+The game runs in any modern browser (Chrome, Edge, Firefox, Safari, and equivalents):
+
+| Platform | How to Play |
 |---|---|
-| **Computador** | Teclado, ou controle (Xbox, PlayStation e similares) |
-| **Celular / tablet** | Controles na tela, com suporte a modo retrato e paisagem |
+| **PC** | Keyboard, or controller (Xbox, PlayStation, and similar) |
+| **Mobile / Tablet** | On-screen controls, supporting both portrait and landscape modes |
 
 ---
 
-## 📖 A história
+## 📖 The Story
 
-Muito após o servo de Ganomisgan ser derrotado na Era do Céu, o herói caiu em um sono de cem anos.
+Long after the servant of Ganomisgan was defeated in the Era of the Sky, the hero fell into a hundred-year slumber.
 
-Agora, aos 113 anos, **Link desperta nas Ruínas do Sono**. Uma alma maligna com a essência de Ganon ressurgiu, e Hyrule precisa de alguém que lembre o caminho.
+Now, at 113 years old, **Link awakens in the Ruins of Slumber**. An evil soul carrying the essence of Ganon has resurfaced, and Hyrule needs someone who remembers the way.
 
-Do Campo de Hyrule ao Rancho Lon Lon, de florestas e desertos a templos e ilhas celestes, Link vai reencontrar aliados, aprender canções e descobrir que o destino de Hyrule está ligado às escolhas dele, entre eras que se cruzam.
-
----
-
-## ✨ Funcionalidades
-
-### Mundo
-- **Mais de 300 mapas** para explorar, com biomas variados: florestas, planícies, desertos, regiões geladas, pântanos, lagos, montanhas e vulcões.
-- **Campo de Hyrule e Rancho Lon Lon em mapas grandes**, com câmera que acompanha o Link, estradas, ruínas, ponte, moinho, cercados e pastos.
-- **Templos, santuários, cavernas, ilhas celestes e outros reinos**, com segredos, paredes que se quebram com bombas e baús escondidos.
-- **Ciclo de dia e noite**, com iluminação, fogueiras e mudança de ambiente.
-- **Vilas vivas**, com casas que se pode entrar, lojas, forja e quadro de pedidos.
-
-### Personagens e vida no mundo
-- **Viajantes de Hyrule**: NPCs que caminham pelo mapa, acampam à noite ao redor de fogueiras, conversam entre si e oferecem serviços.
-- **Cavalos no Rancho**, que pastam, passeiam e reagem ao ambiente.
-- Diálogos com escolhas, missões principais e **side quests**.
-
-### Jogabilidade
-- Combate com espada, escudo e itens, como bombas, sementes Deku, bumerangue e estilingue.
-- **Ocarina**: toque notas e aprenda canções que ativam efeitos pelo mundo. Há também um **modo Livre**, para tocar à vontade sem ativar nada.
-- Puzzles, chefes, mini-chefes, monstros variados e itens ao longo da jornada.
-- Inventário, mapa, minimapa, diário de missões e viagem rápida.
-- **Conquistas** para desbloquear.
-- Sistema de **save** e opções de configuração.
-
-### Técnico
-- **4 idiomas**: Português, Inglês, Espanhol e Japonês.
-- Suporte a **teclado, controle e toque**, com vibração no controle.
-- Arte em pixel art e **música e efeitos sonoros gerados pelo próprio jogo**, sem arquivos de áudio externos.
-- Um único arquivo HTML, sem dependências.
+From Hyrule Field to Lon Lon Ranch, from forests and deserts to temples and sky islands, Link will reunite with allies, learn songs, and discover that Hyrule's destiny is tied to his choices across intersecting eras.
 
 ---
 
-## 🕹️ Controles básicos
+## ✨ Features
 
-| Ação | Teclado / Controle |
+### World
+- **Over 300 maps** to explore, featuring diverse biomes: forests, plains, deserts, snowy regions, swamps, lakes, mountains, and volcanoes.
+- **Large-scale Hyrule Field and Lon Lon Ranch maps**, with a camera that follows Link, roads, ruins, a bridge, a windmill, pens, and pastures.
+- **Temples, shrines, caves, sky islands, and other realms**, packed with secrets, bombable walls, and hidden chests.
+- **Day and night cycle**, complete with dynamic lighting, campfires, and atmospheric shifts.
+- **Lively villages**, with enterable houses, shops, a blacksmith forge, and a quest board.
+
+### Characters and World Life
+- **Travelers of Hyrule**: NPCs that roam the map, camp around fires at night, talk to each other, and offer services.
+- **Horses at the Ranch**, which graze, wander, and react to their surroundings.
+- Choice-driven dialogues, main quests, and **side quests**.
+
+### Gameplay
+- Combat using sword, shield, and items such as bombs, Deku seeds, boomerang, and slingshot.
+- **Ocarina**: play notes and learn songs that trigger effects throughout the world. There is also a **Free Mode** to play freely without triggering anything.
+- Puzzles, bosses, mini-bosses, varied monsters, and items to collect along your journey.
+- Inventory, map, minimap, quest journal, and fast travel.
+- **Achievements** to unlock.
+- **Save** system and customizable settings.
+
+### Technical
+- **4 languages**: Portuguese, English, Spanish, and Japanese.
+- Support for **keyboard, controller, and touch**, including controller vibration.
+- Pixel art visuals and **music and sound effects generated procedurally by the game itself**, with no external audio files.
+- Single HTML file, zero dependencies.
+
+---
+
+## 🕹️ Basic Controls
+
+| Action | Keyboard / Controller |
 |---|---|
-| Mover | Setas ou direcionais |
-| Atacar / interagir / avançar diálogo | **A** |
+| Move | Arrow keys or D-pad |
+| Attack / Interact / Advance dialogue | **A** |
 | Ocarina | **B** |
-| Notas da ocarina | Teclas **1 a 8** (Dó, Ré, Mi, Fá, Sol, Lá, Si, Dó) |
-| Pausa / menu | **P** ou o botão ☰ no celular |
+| Ocarina notes | Keys **1 to 8** (Do, Re, Mi, Fa, Sol, La, Ti, Do) |
+| Pause / Menu | **P** or the ☰ button on mobile |
 
-> Os controles podem ser consultados e ajustados dentro do próprio jogo, no menu de pausa.
-
----
-
-## 🐞 Encontrou um bug?
-
-Abra uma **[Issue](../../issues)** descrevendo o que aconteceu, em qual mapa e, se possível, como reproduzir. Isso ajuda muito.
+> Controls can be viewed and remapped inside the game via the pause menu.
 
 ---
 
-## 🙏 Créditos
+## 🐞 Found a Bug?
 
-Feito por um fã, para fãs.
-Todo o universo, os nomes e a inspiração pertencem à **Nintendo** e aos criadores da série *The Legend of Zelda*.
+Open an **[Issue](../../issues)** describing what happened, on which map, and if possible, how to reproduce it. It helps a lot!
 
-Obrigado por jogar. 💚
+---
+
+## 🙏 Credits
+
+Made by a fan, for fans.
+The entire universe, names, and inspiration belong to **Nintendo** and the creators of *The Legend of Zelda* series.
+
+Thank you for playing. 💚
+
+## JUST A HEADS-UP FOR THOSE WHO LOOK DOWN ON USING AI FOR CODING!
+
+I used AI to write the base code (around 30,000 characters), and the rest was built through sleepless nights of coding! Everything outside of the base programming—designs, music, story, etc.—was created by me. It's tough to make a complete game without using AI when you're attending a full-time school... 😭🙏
+Hope you enjoy it! :3
